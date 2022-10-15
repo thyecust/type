@@ -8,6 +8,16 @@ Formal methods help eusure a system behaves correctly with respect to some speci
 
 A type system can be regarded as calculating a kind of static approximation to the runtime behaviors of the terms in a program. [1]
 
+## Sound, complete, consistent
+
+alse known as soundness, completeness and termination.
+
+Sound: well-typed terms do not go wrong. Also known as safety.
+
+Complete: good terms are well-typed. Usually not true.
+
+Consistent: term is either well-typed or bad-typed. Or, type-checking must terminate. Usually not true.
+
 ## Refs
 
 1. TAPL 1.1
