@@ -152,4 +152,23 @@ T-TApp          Γ ⊦ t1:∀X.T12
                 Γ, t1 [T2] ⊦ [X↦T2] T12
 ```
 
+## Type operators, or lambda-omega
+
+Based on pure simply typed lambda calculus.
+
+TAPL 29.
+
+Syntax: TBD.
+
+Evaluation: TBD.
+
+Kinding: TBD.
+
+Type equivalence: TBD.
+
+Typing: TBD.
+
+## Dependent type, or lambda-P
+
+TAPL 30.5.
 
