@@ -12,3 +12,7 @@ N.G. de Bruijn introduced dependent types to extend this system in 1970.
 ## Related
 
 [Lambda Cube](./lambda_cube.md)
+
+## Note
+
+1. There are many proof assistants (formal proof systems) not based on type theory. E.g. Mizar, Metamath. Read [不基于类型论的proof assistant还有发展空间吗？- mcwu](https://www.zhihu.com/question/414388834/answer/1412579377) for more.
