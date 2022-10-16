@@ -7,6 +7,12 @@ In computer science, there are two major branches to the study of type systems:
 
 the second one is called type theory. [1]
 
+## Intuitionistic Type Theory, or Martin-Lof's Type Theory
+
+Martin-Lof's type theory is regraded as the beginning of modern type theory.
+
+Homotopy type theory (HoTT) is an extension to Martin-Lof's type theory.
+
 ## Related
 
 [Type System](./type_system.md)
