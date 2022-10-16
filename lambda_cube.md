@@ -172,3 +172,9 @@ Typing: TBD.
 
 TAPL 30.5.
 
+## Calculus of constructions, or lambda-C
+
+Well-known proof assistant Coq is built on this type theory.
+Propositional logic and predicate logic fit naturally in lambda-C.
+
+Read *Type Theory and Formal Proof* for more.
