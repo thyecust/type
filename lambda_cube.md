@@ -152,6 +152,9 @@ T-TApp          Γ ⊦ t1:∀X.T12
                 Γ, t1 [T2] ⊦ [X↦T2] T12
 ```
 
+If we introduce subtyping, then we have variance.
+*Variance* is the manner in which the parameter's subtyping affects the whole type's subtyping
+
 ## Type operators, or lambda-omega
 
 Based on pure simply typed lambda calculus.
